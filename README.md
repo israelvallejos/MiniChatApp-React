@@ -1,1 +1,1 @@
-# MiniChatApp-React
+this is a mini chat when I have used react and node js, but i don't understand much of back-end so my focus was on the front-end mainly
